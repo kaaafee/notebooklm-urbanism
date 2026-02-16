@@ -1,5 +1,7 @@
 # notebooklm-urbanism
 
+Link: https://notebooklm.google.com/notebook/ca6cc8a8-1435-401e-864d-2bb0d24782ee
+
 Este espaço foi criado para reunir livros, vídeos, podcasts e textos que exploram soluções sustentáveis para o desenvolvimento das cidades. A proposta é oferecer uma curadoria de conteúdos que conectam arquitetura, urbanismo e economia urbana, sempre com foco em práticas que conciliam crescimento urbano e preservação da natureza.
 
 O repositório é guiado pela perspectiva de um arquiteto e urbanista especializado em planejamento inteligente e impacto socioambiental, que busca inspiração tanto em experiências internacionais bem-sucedidas quanto em ideias inovadoras aplicáveis ao contexto local.
